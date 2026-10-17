@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1784699270593,
+    "name": "Demo User",
+    "email": "demo@example.com",
+    "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+    "role": "user",
+    "createdAt": "2026-07-22T05:47:50.593Z"
+  },
+  {
+    "id": 1784699579684,
+    "name": "sameersingh",
+    "email": "sameersingh9512@gmail.com",
+    "password": "84b7f0cd439ac4f5f5a74215c5d0bcd418ede5256022205e01f84c0d4b15f671",
+    "role": "user",
+    "createdAt": "2026-07-22T05:52:59.685Z"
+  },
+  {
+    "id": 1784700725783,
+    "name": "sameersingh",
+    "email": "samerrsingh9512@gmail.com",
+    "password": "84b7f0cd439ac4f5f5a74215c5d0bcd418ede5256022205e01f84c0d4b15f671",
+    "role": "user",
+    "createdAt": "2026-07-22T06:12:05.783Z"
+  }
+]
